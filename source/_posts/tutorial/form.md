@@ -15,7 +15,7 @@ categories:
 
 
 ```html
-<input type="text" bindx-value="name">
+<input type="text" bind-value="name">
 ```
 
 
